@@ -1,0 +1,31 @@
+{
+  "name": "osmium",
+  "version": "1.0.0",
+  "description": "Osmium is an Open Source tool that dumps and restores MongoDB databases in NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "osmium": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CIDARO/osmium.git"
+  },
+  "author": "Paolo Rollo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CIDARO/osmium/issues"
+  },
+  "homepage": "https://github.com/CIDARO/osmium#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "clui": "^0.3.6",
+    "figlet": "^1.4.0",
+    "inquirer": "^7.1.0",
+    "minimist": "^1.2.5",
+    "web3": "^1.2.9"
+  }
+}
