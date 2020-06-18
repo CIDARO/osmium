@@ -49,7 +49,7 @@ Now you have to edit the `backup-agent/backups.example.json` and rename it into 
 
 The file has the following structure:
 
-```json
+```
 [
     {
         "name": "", // name of the backup or w/e you want as long as you can understand it
