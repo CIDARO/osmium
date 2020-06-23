@@ -1,0 +1,2 @@
+* [Homepage](/)
+* [Installazione](install.md)
